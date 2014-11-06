@@ -1,0 +1,14 @@
+Build for development (generic):
+  make clean
+  make -f config/dev.mk all
+  cat config.ini
+
+Build for development (fredj):
+  make clean
+  make -f config/fredj.mk all
+  cat config.ini
+
+Build for production:
+  make clean
+  make -f config/prod.mk all
+  cat config.ini

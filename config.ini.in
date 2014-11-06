@@ -1,0 +1,4 @@
+myvar value is: {myvar}.
+combined value is: {combined}.
+
+escaped string: ${{escaped}}
